@@ -308,6 +308,6 @@ getPath()、renderBranchNav()、walkToLeaf()、switchBranch()、rebuildChildren(
 纯本地版丢掉的东西：换浏览器就看不到（没有跨设备）、清缓存就没了（没有持久备份）、两个标签页同时操作可能互相踩（没有并发控制）。得到的东西：零部署门槛，一个 HTML 文件拖进浏览器就能用。
 
 ---
-177.
+.177...
 
 <sub>Architecture & documentation: Opus 4.6</sub>
