@@ -333,4 +333,6 @@ function addNode(parentId, role, content) {
 ---
 .177...
 
+7.12 二编了此前可能模糊判断的四五章措辞，更明确地说明了前后端的工作划分。
+
 <sub>Architecture & documentation: Opus 4.6</sub>
